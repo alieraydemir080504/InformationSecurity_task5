@@ -18,3 +18,25 @@
 - Sender encrypts the message with recipient’s public key
 - Sender can also sign with their own private key
 - Receiver decrypts with their private key and verifies the signature
+
+## a) Install openSSH
+
+Here the installation of the OpenSSH server
+<img width="733" height="289" alt="image" src="https://github.com/user-attachments/assets/c863635d-bf37-479c-9841-121aca915c79" />
+
+Then we connect with the client
+<img width="808" height="217" alt="image" src="https://github.com/user-attachments/assets/f704841a-1663-477d-9114-48f76ddafb87" />
+
+## b) Automate SSH connection
+
+We generate a key-pair with ssh-keygen
+<img width="807" height="424" alt="image" src="https://github.com/user-attachments/assets/05424f53-3d0a-4117-a729-a07c99309001" />
+
+We then copy the puplic key to the remote server with: ssh-copy-id alidemir@localhost
+<img width="810" height="257" alt="image" src="https://github.com/user-attachments/assets/46612f07-1059-4574-a370-7a414cda1432" />
+
+If we now test the connection, logging in works without a password
+<img width="810" height="257" alt="image" src="https://github.com/user-attachments/assets/5e9c5c4f-aa1c-4849-8f65-84680e13ae06" />
+
+
+
