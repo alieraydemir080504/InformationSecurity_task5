@@ -55,7 +55,7 @@ I use a password manager because it makes it easy to keep strong and different p
 Without it, people often reuse the same password, which is dangerous if one site gets hacked.
 It also helps against phishing and keyloggers, since I don’t have to type my passwords everywhere.
 
-## Pretty Good indeed
+## d) Pretty Good indeed
 
 First we generate key-pairs with this command: gpg --full-generate-key, I chose RSA and RSA and keysize 3072 
 <img width="691" height="447" alt="image" src="https://github.com/user-attachments/assets/9ec0f0f4-e51b-4354-bbb3-6fefdb1d5ca5" />
@@ -64,9 +64,11 @@ We make and confirm the password for the user
 <img width="797" height="508" alt="image" src="https://github.com/user-attachments/assets/1d906911-e900-4de7-b624-a59c0f512392" />
 
 We first encypt it
+
 <img width="735" height="22" alt="image" src="https://github.com/user-attachments/assets/363e456a-be41-48a7-989a-9c7f2bf6f47a" />
 
 Then we try and decrypt it
+
 <img width="733" height="78" alt="image" src="https://github.com/user-attachments/assets/a0fc97dc-145b-445f-9791-e2f0b69d56fc" />
 
 Now we can see that after decrypting it, the original message shows up which is: Hello, this is my message
