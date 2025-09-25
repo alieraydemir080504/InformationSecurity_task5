@@ -41,6 +41,21 @@ If we now test the connection, logging in works without a password
 ## c) Password Manager
 
 I randomly chose KeePass as the password manager. For that, I needed to install it
-<img width="877" height="82" alt="image" src="https://github.com/user-attachments/assets/8f297684-6397-4f14-824b-bdcc7010eaf6" />
+<img width="707" height="285" alt="image" src="https://github.com/user-attachments/assets/a2732e1b-cb49-4d88-a904-fd5f6d386179" />
+
+We make a database file, inside I make 2 entries and log in with the master password
+<img width="802" height="613" alt="image" src="https://github.com/user-attachments/assets/790bfeb1-9528-418e-b4e4-ea108577ea50" />
+
+Also, you can just generate passwords and utilize them later on
+<img width="794" height="627" alt="image" src="https://github.com/user-attachments/assets/c9e5a023-9bda-4068-812f-c6855de4290a" />
+
+### Explanation
+
+I use a password manager because it makes it easy to keep strong and different passwords for all accounts.
+Without it, people often reuse the same password, which is dangerous if one site gets hacked.
+It also helps against phishing and keyloggers, since I don’t have to type my passwords everywhere.
+
+## Pretty Good indeed
+
 
 
