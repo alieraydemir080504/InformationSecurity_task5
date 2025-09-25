@@ -38,5 +38,9 @@ We then copy the puplic key to the remote server with: ssh-copy-id alidemir@loca
 If we now test the connection, logging in works without a password
 <img width="810" height="257" alt="image" src="https://github.com/user-attachments/assets/5e9c5c4f-aa1c-4849-8f65-84680e13ae06" />
 
+## c) Password Manager
+
+I randomly chose KeePass as the password manager. For that, I needed to install it
+<img width="877" height="82" alt="image" src="https://github.com/user-attachments/assets/8f297684-6397-4f14-824b-bdcc7010eaf6" />
 
 
